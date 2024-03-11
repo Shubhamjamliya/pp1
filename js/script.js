@@ -90,7 +90,7 @@ $("#top").click(function(e){
 });
 
 // for connecting contact form to google sheet
-const scriptURL = 'https://script.google.com/macros/s/AKfycbyRclpZ2m5YoLAE-9Ju1jWdpqiWSKBk-U0PuLPvR_VSmurkYDKS3ZOqWy3l_uvp10FC/exec';
+// const scriptURL = 'https://script.google.com/macros/s/AKfycbyRclpZ2m5YoLAE-9Ju1jWdpqiWSKBk-U0PuLPvR_VSmurkYDKS3ZOqWy3l_uvp10FC/exec';
 const form = document.forms['submit-to-google-sheet']
 const msg=document.getElementById('msg');
 
